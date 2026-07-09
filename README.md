@@ -154,3 +154,6 @@ node --env-file=backend/.env backend/test-sdk.js
 ## Project Checkpoint 💾
 - **Tag**: `sentinel-stable-v2-sdk`
 - **Purpose**: Stable version with official SDK and enhanced speech logic.
+
+- <img width="1101" height="682" alt="WhatsApp Image 2026-07-09 at 10 35 58 AM" src="https://github.com/user-attachments/assets/81ebd90d-5838-4540-8741-7eaa9da0422d" />
+
